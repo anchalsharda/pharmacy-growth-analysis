@@ -27,6 +27,11 @@ Delivered a stakeholder-ready analysis connecting pharmacy department performanc
 Provided actionable recommendations to prioritize pharmacy investments in targeted cities and store types.
 Demonstrated a full ETL pipeline and real-world business analytics, from raw data extraction to stakeholder communication.
 Strengthened the decision-making framework for optimizing revenue growth and operational efficiency in a transforming retail environment.
+
+**💻 Tools Used:**
+
+*Advanced Microsoft Excel: Utilized for data analysis, transformation, and visualization. *Power Query: For efficient data extraction, transformation, and loading (ETL). *Pivot Tables: To summarize, explore, and analyze large datasets interactively. *What-If Analysis: Including Data Tables and Scenario Manager to model hypothetical business scenarios. *Conditional Formatting & Dynamic Dashboards: For enhanced visual insights. *VLOOKUP, INDEX-MATCH, IFERROR, and Nested Functions: For robust data manipulation and accuracy checks.
+
 #DataAnalytics #ETL #PowerQuery #SQL #ExcelModeling #RetailAnalytics #DataWrangling #DataCleaning #BusinessIntelligence #StakeholderCommunication #StoreExpansionStrategy #RevenueAnalysis #RetailStrategy #PortugalMarket
 
 **Note:**
